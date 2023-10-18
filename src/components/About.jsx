@@ -58,11 +58,7 @@ const About = () => {
         como monitoração de sistemas com dashboards, HTML, Java, JavaScript, SQL, Bootstrap, React, AWS e Azure.
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
-        {services.map((service, index) => (
-          <ServiceCard key={service.title} index={index} {...service} />
-        ))}
-      </div>
+    
     </>
   );
 };
