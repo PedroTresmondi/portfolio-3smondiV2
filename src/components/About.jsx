@@ -49,16 +49,15 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Com habilidades em JavaScript, Node.js, React.JS e AWS.
-        Trabalhei em projetos internos, aplicando metodologias ágeis como Scrum e desenvolvendo soluções inovadoras.
-        Também sou designer gráfico freelancer com experiência em Adobe Illustrator e Photoshop.
-        Animado para aplicar minhas habilidades em projetos desafiadores e inovadores.
-        Me formei em Análise de Sistemas de Computação na São Paulo Tech School,
-        adquirindo conhecimentos em diversas tecnologias 
-        como monitoração de sistemas com dashboards, HTML, Java, JavaScript, SQL, Bootstrap, React, AWS e Azure.
+        Com ampla experiência em desenvolvimento de sistemas internos usando React, Node.js, Express, TypeScript e Redux, meu trabalho é conduzido pela agilidade. <br />
+        Comunico com APIs usando Bootstrap e Axios, aplico Scrum para entregas eficientes e lidero revisões de código. <br />
+
+        Também atuo como QA, focando em UI e frontend. E com proficiência em soluções na nuvem AWS e banco de dados Azure, estou preparado para enfrentar desafios. <br />
+        Além disso, como designer gráfico freelancer com habilidades em Adobe Illustrator e Photoshop, integro design e tecnologia de maneira única.
+        <br />Formado em Análise de Sistemas de Computação na São Paulo Tech School, minha paixão é aplicar essas habilidades em projetos inovadores.
       </motion.p>
 
-    
+
     </>
   );
 };
