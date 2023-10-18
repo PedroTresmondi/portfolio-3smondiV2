@@ -1,9 +1,5 @@
 
 import {
-  mobile,
-  backend,
-  creator,
-  web,
   javascript,
   typescript,
   html,
@@ -21,6 +17,7 @@ import {
   befit,
   befitMobile,
   mebous,
+  design,
 } from "../assets";
 
 export const navLinks = [
@@ -38,24 +35,7 @@ export const navLinks = [
   },
 ];
 
-const services = [
-  {
-    title: "Web Developer",
-    icon: web,
-  },
-  {
-    title: "React Native Developer",
-    icon: mobile,
-  },
-  {
-    title: "Backend Developer",
-    icon: backend,
-  },
-  {
-    title: "Content Creator",
-    icon: creator,
-  },
-];
+
 
 const technologies = [
   {
@@ -143,7 +123,7 @@ const experiences = [
   {
     title: "Designer Grafico",
     company_name: "",
-    icon: accenture,
+    icon: design,
     iconBg: "#E6DEDD",
     date: "2020 - Presente",
     points: [
@@ -258,4 +238,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { technologies, experiences, projects };

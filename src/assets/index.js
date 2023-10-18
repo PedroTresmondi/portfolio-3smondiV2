@@ -1,8 +1,4 @@
 import logo from "./logo.png";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -23,6 +19,7 @@ import threejs from "./tech/threejs.svg";
 
 import accenture from "./company/accenture.png";
 import sptech from "./company/sptech.jpg";
+import design from "./company/design.png";
 
 
 import befit from "./befit.png";
@@ -31,12 +28,10 @@ import omniview from "./omniview.png";
 import mebous from "./mebous.png";
 
 
+
+
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
   github,
   menu,
   close,
@@ -59,4 +54,5 @@ export {
   accenture,
   sptech,
   mebous,
+  design,
 };
