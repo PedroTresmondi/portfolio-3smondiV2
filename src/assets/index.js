@@ -26,6 +26,7 @@ import befit from "./befit.png";
 import befitMobile from "./befitMobile.png";
 import omniview from "./omniview.png";
 import mebous from "./mebous.png";
+import memorygame from "./memorygameimg.jpg"
 
 
 
@@ -55,4 +56,5 @@ export {
   sptech,
   mebous,
   design,
+  memorygame,
 };

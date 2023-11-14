@@ -18,6 +18,7 @@ import {
   befitMobile,
   mebous,
   design,
+  memorygame,
 } from "../assets";
 
 export const navLinks = [
@@ -160,6 +161,27 @@ const projects = [
     ],
     image: mebous,
     source_code_link: "https://github.com/PedroTresmondi/mebous-virtual-shop",
+  },
+  {
+    name: "Memory Game",
+    description:
+      "Jogo da memoria feito com JS",
+    tags: [
+      {
+        name: "javascript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "html",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "css",
+        color: "green-text-gradient",
+      },
+    ],
+    image: memorygame,
+    source_code_link: "https://github.com/PedroTresmondi/memorygame",
   },
   {
     name: "Befit Web App",
