@@ -19,6 +19,7 @@ import {
   mebous,
   design,
   memorygame,
+  phygital,
 } from "../assets";
 
 export const navLinks = [
@@ -86,6 +87,17 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Software Engineer",
+    company_name: "Phygital Lab",
+    icon: phygital,
+    iconBg: "#383E56",
+    date: "Novembro 2023 - Presente",
+    points: [
+      "Desenvolvendo sistemsa, jogos e experiências fisicas/digitais para usuarios e eventos ",
+  
+    ],
+  },
   {
     title: "Software Engineer",
     company_name: "Accenture",

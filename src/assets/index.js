@@ -20,6 +20,7 @@ import threejs from "./tech/threejs.svg";
 import accenture from "./company/accenture.png";
 import sptech from "./company/sptech.jpg";
 import design from "./company/design.png";
+import phygital from "./company/phygital.jpg";
 
 
 import befit from "./befit.png";
@@ -54,6 +55,7 @@ export {
   omniview,
   accenture,
   sptech,
+  phygital,
   mebous,
   design,
   memorygame,
