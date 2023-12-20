@@ -88,13 +88,15 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineer",
+    title: "Desenvolvedor",
     company_name: "Phygital Lab",
     icon: phygital,
     iconBg: "#383E56",
     date: "Novembro 2023 - Presente",
     points: [
-      "Desenvolvendo sistemsa, jogos e experiências fisicas/digitais para usuarios e eventos ",
+      "Desenvolvendo sistemas, jogos 3D e experiências fisicas/digitais para usuarios e eventos",
+      "Usando todo o meu conhecimento que adquiri ao longo da minha jornada",
+    
   
     ],
   },
